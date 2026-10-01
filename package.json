@@ -1,0 +1,24 @@
+{
+  "name": "hdb-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "start": "node scripts/python.mjs -m backend.server",
+    "import": "node scripts/python.mjs -m backend.data",
+    "test": "node scripts/python.mjs -m unittest discover -s tests -v"
+  },
+  "dependencies": {
+    "leaflet": "1.9.4",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^7.0.0"
+  }
+}

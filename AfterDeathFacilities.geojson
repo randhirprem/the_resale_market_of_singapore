@@ -1,0 +1,381 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "AFTERDEATHFACILITIES",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83330995188824, 1.4347552230722387 ]
+			},
+			"properties" : {
+				"OBJECTID" : 321,
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSSTREETNAME" : "Yishun Ring Road",
+				"ADDRESSTYPE" : null,
+				"DESCRIPTION" : "The Yishun Columbarium houses some 16,000 niches and has an architecture similar to a Chinese temple, which offers families a choice of a more traditional temple-like environment.",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 27999.04,
+				"LANDYADDRESSPOINT" : 46273.46,
+				"NAME" : "Yishun Columbarium",
+				"PHOTOURL" : "http://app2.nea.gov.sg/data/cmsresource/20090511321103299553.jpg",
+				"INC_CRC" : "E2E141FCC4E830C4",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.68393230085688, 1.3702175594146393 ]
+			},
+			"properties" : {
+				"OBJECTID" : 322,
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSSTREETNAME" : null,
+				"ADDRESSTYPE" : null,
+				"DESCRIPTION" : "Chua Chu Kang Road 26 km",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 11375.1,
+				"LANDYADDRESSPOINT" : 39137.73,
+				"NAME" : "Chua Chu Kang Hindu Cemetery",
+				"PHOTOURL" : null,
+				"INC_CRC" : "E7023DD082B3E766",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.75754471706645, 1.4191881535777329 ]
+			},
+			"properties" : {
+				"OBJECTID" : 323,
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSSTREETNAME" : null,
+				"ADDRESSTYPE" : null,
+				"DESCRIPTION" : "Woodlands Road 22 km",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 19567.46,
+				"LANDYADDRESSPOINT" : 44552.27,
+				"NAME" : "State Cemetery, Kranji",
+				"PHOTOURL" : null,
+				"INC_CRC" : "8696DA5DB005C9D1",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.6958682246503, 1.3689948580639415 ]
+			},
+			"properties" : {
+				"OBJECTID" : 324,
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSSTREETNAME" : null,
+				"ADDRESSTYPE" : null,
+				"DESCRIPTION" : "Chua Chu Kang Road 24 km",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 12703.42,
+				"LANDYADDRESSPOINT" : 39002.45,
+				"NAME" : "Chua Chu Kang Christian Cemetery",
+				"PHOTOURL" : null,
+				"INC_CRC" : "B0C5D1553D351143",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.69106864674367, 1.3791236054749594 ]
+			},
+			"properties" : {
+				"OBJECTID" : 325,
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSSTREETNAME" : null,
+				"ADDRESSTYPE" : null,
+				"DESCRIPTION" : "Chua Chu Kang Road 26 km",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 12169.35,
+				"LANDYADDRESSPOINT" : 40122.47,
+				"NAME" : "Chua Chu Kang Chinese Cemetery",
+				"PHOTOURL" : null,
+				"INC_CRC" : "EAC28D56753E4623",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.69135140448317, 1.3855548076873478 ]
+			},
+			"properties" : {
+				"OBJECTID" : 326,
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSSTREETNAME" : null,
+				"ADDRESSTYPE" : null,
+				"DESCRIPTION" : "Chua Chu Kang Road / Jalan Bahar",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 12200.86,
+				"LANDYADDRESSPOINT" : 40833.6,
+				"NAME" : "Chua Chu Kang Muslim Cemetery",
+				"PHOTOURL" : null,
+				"INC_CRC" : "974715446B9D98A3",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.69639737865666, 1.3707955630918995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 327,
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSSTREETNAME" : null,
+				"ADDRESSTYPE" : null,
+				"DESCRIPTION" : "Chua Chu Kang Road 24 km",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 12762.32,
+				"LANDYADDRESSPOINT" : 39201.56,
+				"NAME" : "Lawn Cemetery",
+				"PHOTOURL" : null,
+				"INC_CRC" : "719E13AED75C4DB5",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.69716462817838, 1.3714650156554318 ]
+			},
+			"properties" : {
+				"OBJECTID" : 328,
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSSTREETNAME" : null,
+				"ADDRESSTYPE" : null,
+				"DESCRIPTION" : "Chua Chu Kang Road 24 km",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 12847.71,
+				"LANDYADDRESSPOINT" : 39275.58,
+				"NAME" : "Chua Chu Kang Parsi Cemetery",
+				"PHOTOURL" : null,
+				"INC_CRC" : "1B7C03CAA4949BD2",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.68862757692496, 1.3688669143939851 ]
+			},
+			"properties" : {
+				"OBJECTID" : 329,
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSSTREETNAME" : null,
+				"ADDRESSTYPE" : null,
+				"DESCRIPTION" : "Chua Chu Kang Road 26 km",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 11897.62,
+				"LANDYADDRESSPOINT" : 38988.35,
+				"NAME" : "Chua Chu Kang Ahmadiyya Jama'at Cemetery",
+				"PHOTOURL" : null,
+				"INC_CRC" : "64C43621CE096482",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.68699064314187, 1.3705808504452357 ]
+			},
+			"properties" : {
+				"OBJECTID" : 330,
+				"ADDRESSBLOCKHOUSENUMBER" : "960",
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : "699818",
+				"ADDRESSSTREETNAME" : "Choa Chu Kang Road",
+				"ADDRESSTYPE" : "F",
+				"DESCRIPTION" : "The Choa Chu Kang Crematorium located along the curved elbow of Choa Chu Kang Road, has won a Design Award at the 2006 SIA Design Awards",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 11715.46,
+				"LANDYADDRESSPOINT" : 39177.88,
+				"NAME" : "Choa Chu Kang Crematorium",
+				"PHOTOURL" : null,
+				"INC_CRC" : "8A46B5F355383BFF",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.68710711580634, 1.373239679854698 ]
+			},
+			"properties" : {
+				"OBJECTID" : 331,
+				"ADDRESSBLOCKHOUSENUMBER" : "51",
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : "698932",
+				"ADDRESSSTREETNAME" : "Chinese Cemetery Path 4",
+				"ADDRESSTYPE" : "F",
+				"DESCRIPTION" : "The Choa Chu Kang Columbarium located within the Choa Chu Kang Cemetery Complex houses some 147,000 niches spread over 18 four-storey blocks.",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 11728.44,
+				"LANDYADDRESSPOINT" : 39471.88,
+				"NAME" : "Choa Chu Kang Columbarium",
+				"PHOTOURL" : "http://app2.nea.gov.sg/data/cmsresource/20090511740393378632.jpg",
+				"INC_CRC" : "C0D9CBC59962F65D",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80966687107684, 1.4137581240669792 ]
+			},
+			"properties" : {
+				"OBJECTID" : 332,
+				"ADDRESSBLOCKHOUSENUMBER" : "300",
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : "779393",
+				"ADDRESSSTREETNAME" : "Mandai Road",
+				"ADDRESSTYPE" : "F",
+				"DESCRIPTION" : "The Mandai Columbarium located within the Central Catchment Area houses some 133,000 niches inÃ‚Â¿8 three-storey blocks.",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 25367.9,
+				"LANDYADDRESSPOINT" : 43951.72,
+				"NAME" : "Mandai Crematorium & Columbarium",
+				"PHOTOURL" : "http://app2.nea.gov.sg/data/cmsresource/20090511813908286882.jpg",
+				"INC_CRC" : "66A57180DEBE7CE1",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.87727799278976, 1.340376107120673 ]
+			},
+			"properties" : {
+				"OBJECTID" : 333,
+				"ADDRESSBLOCKHOUSENUMBER" : "121",
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : "367878",
+				"ADDRESSSTREETNAME" : "Upper Aljunied Road",
+				"ADDRESSTYPE" : "F",
+				"DESCRIPTION" : "The Mount Vernon Columbarium opens daily from 7:00am to 5:30pm for the public to visit and pay respects to their deceased kin.",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 32892.21,
+				"LANDYADDRESSPOINT" : 35837.54,
+				"NAME" : "Mount Vernon Columbarium",
+				"PHOTOURL" : null,
+				"INC_CRC" : "41E37DBCBF788E29",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.69963832456621, 1.3709737257828958 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334,
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSSTREETNAME" : null,
+				"ADDRESSTYPE" : null,
+				"DESCRIPTION" : "Chua Chu Kang Road 24 km",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 13123,
+				"LANDYADDRESSPOINT" : 39221.24,
+				"NAME" : "Chua Chu Kang Jewish Cemetery",
+				"PHOTOURL" : null,
+				"INC_CRC" : "B07B78ABDDF5781B",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.69501791253641, 1.376773675282117 ]
+			},
+			"properties" : {
+				"OBJECTID" : 335,
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSSTREETNAME" : null,
+				"ADDRESSTYPE" : null,
+				"DESCRIPTION" : "Chua Chu Kang Road / Lim Chu Kang Road",
+				"HYPERLINK" : "http://www.nea.gov.sg/public-health/care-for-the-dead/care-for-the-dead-services",
+				"LANDXADDRESSPOINT" : 12608.84,
+				"LANDYADDRESSPOINT" : 39862.6,
+				"NAME" : "Chua Chu Kang Bahai Cemetery",
+				"PHOTOURL" : null,
+				"INC_CRC" : "36CFFDFCA160E1BD",
+				"FMEL_UPD_D" : "20150202121025",
+				"ADDRESSUNITNUMBER" : null
+			}
+		}
+	]
+}

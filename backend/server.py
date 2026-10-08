@@ -8,13 +8,16 @@ from contextlib import closing
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
-from backend.data import ROOT, DEFAULT_DB, connect, dashboard, import_data, metadata, transactions
+from backend.data import ROOT, DEFAULT_DB, connect, dashboard, import_data, metadata, transactions, resale_sources
+from backend.context import catalog, records, map_features
+from backend.price_models import load_models
+from backend.asking import assess
 
 
 @lru_cache(maxsize=32)
 def response_for(route, params):
     with closing(connect()) as con:
-        functions = {'/api/meta': metadata, '/api/dashboard': dashboard, '/api/transactions': transactions}
+        functions = {'/api/meta': metadata, '/api/dashboard': dashboard, '/api/transactions': transactions, '/api/asking': assess}
         function = functions.get(route)
         if function is None:
             raise KeyError('Unknown API route')
@@ -28,7 +31,13 @@ class Handler(BaseHTTPRequestHandler):
         if url.path.startswith('/api/'):
             try:
                 params = tuple(sorted((k, v[-1]) for k, v in parse_qs(url.query).items()))
-                body = response_for(url.path, params)
+                context_routes = {'/api/context/catalog': lambda _: catalog(),
+                                  '/api/models': lambda _: load_models(),
+                                  '/api/context/records': records, '/api/context/map': map_features}
+                if url.path in context_routes:
+                    body = json.dumps(context_routes[url.path](dict(params)), allow_nan=False).encode()
+                else:
+                    body = response_for(url.path, params)
                 self.send_body(200, body, 'application/json')
             except ValueError as error:
                 self.send_body(400, json.dumps({'error': str(error)}).encode(), 'application/json')
@@ -66,7 +75,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     if not DEFAULT_DB.exists():
         print('Importing the source CSVs for the first launch...', flush=True)
-        import_data(ROOT.glob('*.csv'))
+        import_data(resale_sources())
     server = ThreadingHTTPServer(('127.0.0.1', args.port), Handler)
     print(f'HDB Atlas is running at http://127.0.0.1:{args.port}', flush=True)
     try:

@@ -1,0 +1,72 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "COLUMBARIA",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83355739981563, 1.4346683001362075 ]
+			},
+			"properties" : {
+				"OBJECTID" : 641,
+				"LANDXADDRESSPOINT" : 28026.57722,
+				"LANDYADDRESSPOINT" : 46263.84849,
+				"NAME" : "Yishun Columbarium",
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSSTREETNAME" : "Yishun Ring Road",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : "768691",
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Government-Managed Columbaria",
+				"INC_CRC" : "6018A68D2A2A4CFA",
+				"FMEL_UPD_D" : "20240313143239"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.68661959962833, 1.3743222000857827 ]
+			},
+			"properties" : {
+				"OBJECTID" : 642,
+				"LANDXADDRESSPOINT" : 11674.19264,
+				"LANDYADDRESSPOINT" : 39591.58329,
+				"NAME" : "Choa Chu Kang Columbarium",
+				"ADDRESSBLOCKHOUSENUMBER" : "51",
+				"ADDRESSSTREETNAME" : "Chinese Cemetery Path 4",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : "698932",
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Government-Managed Columbaria",
+				"INC_CRC" : "A69F7F743BE5CE27",
+				"FMEL_UPD_D" : "20200417165813"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80963209959741, 1.4139117000695083 ]
+			},
+			"properties" : {
+				"OBJECTID" : 643,
+				"LANDXADDRESSPOINT" : 25364.03064,
+				"LANDYADDRESSPOINT" : 43968.70169,
+				"NAME" : "Mandai Columbarium",
+				"ADDRESSBLOCKHOUSENUMBER" : "300",
+				"ADDRESSSTREETNAME" : "Mandai Road",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : "779393",
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Government-Managed Columbaria",
+				"INC_CRC" : "315770393BC1CCA2",
+				"FMEL_UPD_D" : "20200417165813"
+			}
+		}
+	]
+}

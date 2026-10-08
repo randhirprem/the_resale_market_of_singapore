@@ -4,7 +4,7 @@
 
 ## 1. Choose a comparison
 
-Use From and To to set an inclusive month range. Pick a flat type for a more comparable group of homes, then optionally select a town. Reset restores January-December 2024, all towns and all flat types. Copy the browser URL to preserve these shared filters.
+Use From and To to set an inclusive month range. Pick a flat type for a more comparable group of homes, then optionally select a town. Reset restores the latest 12 available months, all towns and all flat types. Copy the browser URL to preserve these shared filters.
 
 The four summary cards show median resale price, median price per square metre, transaction count and median floor area. Currency is SGD. Missing medians display as a dash, not a zero price.
 
@@ -38,3 +38,23 @@ Export page downloads only the current page as CSV. Its 13 columns include the o
 ## Worked example
 
 For January-December 2024, select **4 ROOM** and **BEDOK**. The local dataset contains **452 transactions**, a **$540,000** median resale price and **92 m²** median area. Selecting **TAMPINES** on the map changes that selection to **867 transactions** and a **$625,000** median resale price. These are historical observations, not current asking prices.
+
+## 5. Explore neighbourhood context
+
+Choose a Map overlay above the map, then click features to inspect source attributes. Only one overlay is displayed at a time. Pan and zoom to reload features for the visible area; a limit notice means you should zoom in to see more. Select Resale markets only to clear the overlay.
+
+The Neighbourhood panel offers 11 source datasets plus a derived balanced secondary-school ranking. It opens on the ranking, with the scoring method and exclusions available above the table. Expand the accessibility guide for daily-life considerations and price-interpretation limits. Search by school, subject, CCA, block, street, station or year. Open school cards for linked programmes, or building cards for flat counts and facilities. Other datasets appear in horizontally scrollable tables. Search and pagination apply only to the selected reference dataset; switching datasets resets both.
+
+Reference snapshots do not follow the resale filters and should not be interpreted as historical amenities for a selected resale month. Travel figures are not live estimates, and school road zones are not admission boundaries.
+
+## 6. Assess an asking price
+
+Open **Asking price**, select estate and housing type, enter the asking price in SGD and remaining lease in years, then select **Assess asking price**. The result flags high prices, explains whether at-asking or below-asking is better supported, and shows an indicative range and supporting sales. Inputs are independent of dashboard filters; editing one clears the previous result.
+
+The range is the middle half of comparable recorded prices, not a predicted sale-price interval. A minimum of 20 sales across three blocks is required. The app does not estimate the probability that a property sells. See [Asking-price assessment](Asking-Price.md) for worked examples and the full method.
+
+## 7. Compare price equations
+
+Open Price equations or select an estate in its dropdown. The estate selection is shared with the main dashboard; date and flat-type filters do not refit the models. Compare the numeric formulas, conditional associations with block-clustered coefficient intervals, and errors on the same later sales. Expand All estate comparisons for the full audit.
+
+Factor-removal bars show the change in held-out mean absolute percentage error when a factor is omitted and the model refitted. They are not percentages of the home’s price. Negative bars mean removing that factor improved the test result. Small samples use the island model with an estate offset, explicitly labelled pooled.

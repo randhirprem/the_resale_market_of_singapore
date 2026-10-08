@@ -14,6 +14,25 @@ DEFAULT_DB = ROOT / 'data' / 'hdb.sqlite3'
 MONTH = re.compile(r'^\d{4}-(0[1-9]|1[0-2])$')
 
 
+def resale_sources(root=ROOT):
+    """Discover sales by schema; the newer full snapshot supersedes the old one."""
+    old = 'Resale flat prices based on registration date from Jan-2017 onwards.csv'
+    new = 'ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv'
+    required = {'month', 'town', 'flat_type', 'block', 'street_name', 'storey_range',
+                'floor_area_sqm', 'flat_model', 'lease_commence_date', 'resale_price'}
+    paths = []
+    for path in sorted(Path(root).glob('*.csv')):
+        if path.name == old and (Path(root) / new).is_file():
+            continue
+        with path.open(encoding='utf-8-sig', newline='') as stream:
+            valid = required.issubset(next(csv.reader(stream), []))
+            if path.name in (old, new) and not valid:
+                raise ValueError(f'{path.name}: missing required resale columns')
+            if valid:
+                paths.append(path)
+    return paths
+
+
 def connect(path=DEFAULT_DB):
     con = sqlite3.connect(path)
     con.row_factory = sqlite3.Row
@@ -182,9 +201,9 @@ def transactions(con, filters):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Import all root CSVs without modifying them')
+    parser = argparse.ArgumentParser(description='Import resale CSVs, preferring the latest 2017-onward snapshot')
     parser.add_argument('--database', type=Path, default=DEFAULT_DB)
     args = parser.parse_args()
-    result = import_data(ROOT.glob('*.csv'), args.database)
+    result = import_data(resale_sources(), args.database)
     print(json.dumps(result, indent=2))
     print(f'Imported {sum(source["rows"] for source in result):,} transactions into {args.database}')

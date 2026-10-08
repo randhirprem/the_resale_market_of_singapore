@@ -1,0 +1,204 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "ACTIVECEMETERIES",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.68804220023333, 1.3694001996669383 ]
+			},
+			"properties" : {
+				"OBJECTID" : 321,
+				"LANDXADDRESSPOINT" : 11832.47797,
+				"LANDYADDRESSPOINT" : 39047.32214,
+				"NAME" : "Chua Chu Kang Ahmadiyya Jama'at Cemetery",
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSSTREETNAME" : "Ahmadiyya Cemetery Path 1",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Located near the intersection of Ahmadiyya Cemetery Path 1 and Choa Chu Kang Track 33",
+				"INC_CRC" : "71FF4A80772E9BAB",
+				"FMEL_UPD_D" : "20200418201716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.69297739960156, 1.3749132004523597 ]
+			},
+			"properties" : {
+				"OBJECTID" : 322,
+				"LANDXADDRESSPOINT" : 12381.74354,
+				"LANDYADDRESSPOINT" : 39656.89075,
+				"NAME" : "Chua Chu Kang Bahai Cemetery",
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSSTREETNAME" : "Chinese Cemetery Path 10",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Located near the intersection of Chinese Cemetery Path 10 and Chinese Cemetery Path 1",
+				"INC_CRC" : "5BAF0182B98D2565",
+				"FMEL_UPD_D" : "20200418201716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.68638990024378, 1.381858099617868 ]
+			},
+			"properties" : {
+				"OBJECTID" : 323,
+				"LANDXADDRESSPOINT" : 11648.68117,
+				"LANDYADDRESSPOINT" : 40424.86914,
+				"NAME" : "Chua Chu Kang Chinese Cemetery",
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSSTREETNAME" : "Cemetery Central St 29",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Located near the intersection of Cemetery Central St 29 and Chinese Cemetery Path 21",
+				"INC_CRC" : "01BD6CFB52F11ED6",
+				"FMEL_UPD_D" : "20200418201716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.68968900022202, 1.373497400416004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 324,
+				"LANDXADDRESSPOINT" : 12015.77468,
+				"LANDYADDRESSPOINT" : 39500.36005,
+				"NAME" : "Chua Chu Kang Christian Cemetery",
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSSTREETNAME" : "Cemetery Central St 21",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Located along Cemetery Central Street 21",
+				"INC_CRC" : "28431F5E02516D20",
+				"FMEL_UPD_D" : "20200418201716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.68588570041601, 1.3694216000029131 ]
+			},
+			"properties" : {
+				"OBJECTID" : 325,
+				"LANDXADDRESSPOINT" : 11592.48495,
+				"LANDYADDRESSPOINT" : 39049.7031,
+				"NAME" : "Chua Chu Kang Hindu Cemetery",
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSSTREETNAME" : "Hindu Cemetery Path 1",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Located near the intersection of Hindu Cemetery Path 1 and Cemetery South Street 25",
+				"INC_CRC" : "A03CCAC647554BA4",
+				"FMEL_UPD_D" : "20200418201716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.69998340043554, 1.3716471998759696 ]
+			},
+			"properties" : {
+				"OBJECTID" : 326,
+				"LANDXADDRESSPOINT" : 13161.40695,
+				"LANDYADDRESSPOINT" : 39295.70741,
+				"NAME" : "Chua Chu Kang Jewish Cemetery",
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSSTREETNAME" : "Christian Cemetery Path 1",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Located along Christian Cemetery Path 1",
+				"INC_CRC" : "335910480A5C670F",
+				"FMEL_UPD_D" : "20200418201716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.68755400004073, 1.3834509409580638 ]
+			},
+			"properties" : {
+				"OBJECTID" : 327,
+				"LANDXADDRESSPOINT" : 11778.242,
+				"LANDYADDRESSPOINT" : 40600.99,
+				"NAME" : "Chua Chu Kang Muslim Cemetery",
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSSTREETNAME" : "Cemetery North St 17",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Located near the intersection of Cemetery North Street 17 and Cemetery Central Street 34",
+				"INC_CRC" : "E7E0B7FA5EBE138D",
+				"FMEL_UPD_D" : "20200418201716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.69955420037624, 1.3717383996500079 ]
+			},
+			"properties" : {
+				"OBJECTID" : 328,
+				"LANDXADDRESSPOINT" : 13113.64266,
+				"LANDYADDRESSPOINT" : 39305.79454,
+				"NAME" : "Chua Chu Kang Parsi Cemetery",
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSSTREETNAME" : "Christian Cemetery Path 1",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Located along Christian Cemetery Path 1",
+				"INC_CRC" : "8F51EA4361FBDD90",
+				"FMEL_UPD_D" : "20200418201716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.68968900022202, 1.373497400416004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 329,
+				"LANDXADDRESSPOINT" : 12015.77468,
+				"LANDYADDRESSPOINT" : 39500.36005,
+				"NAME" : "Lawn Cemetery",
+				"ADDRESSBLOCKHOUSENUMBER" : null,
+				"ADDRESSSTREETNAME" : "Cemetery Central St 21",
+				"ADDRESSFLOORNUMBER" : null,
+				"ADDRESSUNITNUMBER" : null,
+				"ADDRESSPOSTALCODE" : null,
+				"ADDRESSBUILDINGNAME" : null,
+				"DESCRIPTION" : "Located along Cemetery Central Street 21",
+				"INC_CRC" : "28431F5EF2AE250D",
+				"FMEL_UPD_D" : "20200418201716"
+			}
+		}
+	]
+}

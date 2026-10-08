@@ -1,0 +1,2346 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "G_MP14_PKWB_PARKS_AN",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.70997304970416, 1.3340661532859723 ],
+					[ 103.71296031542879, 1.3340663021706758 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2386,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Jurong\r\nCentral\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "A51F4253BE7BEEAA",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 142448.166864735,
+				"SHAPE.LEN" : 1509.7051
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.84490336248201, 1.3602045174150492 ],
+					[ 103.85230829608801, 1.3602044702584564 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2385,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Bishan-Ang Mo Kio\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 300,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8256,
+				"INC_CRC" : "91D57876F22A0EC7",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 234154.466235956,
+				"SHAPE.LEN" : 2431.69105
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.95069563428513, 1.3830960884844654 ],
+					[ 103.96225674895857, 1.3830954848649089 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2384,
+				"FEATUREID" : 2731,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "<BOL>Pasir Ris Park</BOL>",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 0,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 64,
+				"INC_CRC" : "9DBAE407623E17E1",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 90929.2339356894,
+				"SHAPE.LEN" : 1725.6228
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.83171634507202, 1.40700018949593 ],
+					[ 103.83457191602358, 1.4070001897289592 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2383,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Family\r\nBay",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8256,
+				"INC_CRC" : "C6A4E774D40902B4",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 86902.8217156575,
+				"SHAPE.LEN" : 1195.71135
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.94098545950885, 1.3870208557776238 ],
+					[ 103.95254659727448, 1.3870202981776252 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2382,
+				"FEATUREID" : 2731,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "<BOL>Pasir Ris Park</BOL>",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 0,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 64,
+				"INC_CRC" : "19A60934A321A905",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 90929.2339356894,
+				"SHAPE.LEN" : 1725.6228
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.95762966678855, 1.3712318236576 ],
+					[ 103.96567633198862, 1.3712313896223103 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2381,
+				"FEATUREID" : 2731,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "<BOL>Pasir Ris \r\nInterim Green</BOL>",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 0,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 68,
+				"INC_CRC" : "47EA7243920544F4",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 175785.940059381,
+				"SHAPE.LEN" : 1921.9897
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.91677349025905, 1.332843044386422 ],
+					[ 103.92259860010422, 1.3328428388574767 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2380,
+				"FEATUREID" : 2709,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Bedok\r\nTown\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.8104,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8268,
+				"INC_CRC" : "230BABA815F437E1",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 126358.469272263,
+				"SHAPE.LEN" : 1424.0918
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.91748678725178, 1.3529430709447274 ],
+					[ 103.9249654526004, 1.3529427983195683 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2379,
+				"FEATUREID" : 2746,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Tampines\r\nQuarry\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.8104,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8268,
+				"INC_CRC" : "0126B54BB9849262",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 189931.379859375,
+				"SHAPE.LEN" : 1762.3633
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81334341373835, 1.4045630250266419 ],
+					[ 103.81795620547592, 1.4045630601478944 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2377,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Springleaf\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "BC22249C9103299D",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 134131.460306224,
+				"SHAPE.LEN" : 1574.48045
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.85755732560632, 1.4181011156364651 ],
+					[ 103.86085221819116, 1.4181010785801913 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2376,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Rowers'\r\nBay",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8256,
+				"INC_CRC" : "A305E5F08082CBDD",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 105614.787449676,
+				"SHAPE.LEN" : 1345.7795
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.95300637691477, 1.3093753222447686 ],
+					[ 103.96565342341873, 1.3093746826105428 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2375,
+				"FEATUREID" : 2679,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "East Coast Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.8104,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8268,
+				"INC_CRC" : "5B668944602E841C",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 102935.900310547,
+				"SHAPE.LEN" : 1921.0254
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.83112882948633, 1.4652113330077894 ],
+					[ 103.84318941148285, 1.465211312283964 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2374,
+				"FEATUREID" : 3485,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Sembawang Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8256,
+				"INC_CRC" : "E2AC188F85AF86C5",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 111945.397674004,
+				"SHAPE.LEN" : 2067.6536
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.8370497635062, 1.4018909163068465 ],
+					[ 103.84341977230655, 1.401890897414305 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2373,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Lower Seletar\r\nReservoir Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "2277B8D99F9AD03F",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 193669.537063684,
+				"SHAPE.LEN" : 2051.97005
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 104.06380218778436, 1.4353260616404429 ],
+					[ 104.07225906606342, 1.435325188348638 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2372,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Pulau Damien",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 0,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 64,
+				"INC_CRC" : "BCFB2E6410F2FEFE",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 84909.5300411469,
+				"SHAPE.LEN" : 1627.6542
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 104.00401481687578, 1.3860923580357625 ],
+					[ 104.01032822324079, 1.3860918916953364 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2371,
+				"FEATUREID" : 2656,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Changi\r\nBeach\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.8104,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8268,
+				"INC_CRC" : "EDC7CCF9CE68A298",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 140106.691552185,
+				"SHAPE.LEN" : 1497.2461
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.83334168571152, 1.3638960077472477 ],
+					[ 103.84116929066748, 1.3638959949109133 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2370,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Bishan-Ang Mo Kio \r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 300,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8256,
+				"INC_CRC" : "CC557A36C2EA0FC4",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 241209.477985849,
+				"SHAPE.LEN" : 2490.49895
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.84639404083386, 1.3723125915169982 ],
+					[ 103.85096284026004, 1.3723125620233063 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2369,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Ang Mo Kio\r\nTown Garden\r\nWest",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "20C92870BD5DFB99",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 261094.404484639,
+				"SHAPE.LEN" : 2141.02265
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77021677827891, 1.3651045916969 ],
+					[ 103.77501532092717, 1.365104713622144 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2368,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Dairy Farm\r\nInterim Green",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 250,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "8D9ACA6B69CB7514",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 114655.992628162,
+				"SHAPE.LEN" : 1546.76485
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.73776919122668, 1.3844897895182364 ],
+					[ 103.74369984338283, 1.3844900225950882 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2367,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Choa Chu Kang\r\n Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "EEC5C189DB051712",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 205724.489608779,
+				"SHAPE.LEN" : 2148.6496
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.7797363733312, 1.3841808804391087 ],
+					[ 103.78311907791506, 1.38418095494189 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2366,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Chestnut\r\nLinear\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "00DC1ECBF6B757FB",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 27122.0225282975,
+				"SHAPE.LEN" : 1225.54548082406
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.71156627934545, 1.3156165559901762 ],
+					[ 103.71732104396295, 1.3156168319331565 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2365,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Jurong Bird \r\nPark & Jurong \r\nHill Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "CBC89C969D33A7B9",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 294081.971542346,
+				"SHAPE.LEN" : 2316.54975
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77290059214891, 1.35255634838513 ],
+					[ 103.78474340496052, 1.3525566160590698 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2364,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Dairy Farm Nature Area",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 250,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "549569B915FE08FC",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 96754.7482899969,
+				"SHAPE.LEN" : 2161.0266
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.79408081238985, 1.2993681776762993 ],
+					[ 103.80062626785012, 1.2993682714869756 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2363,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Buona Vista Park\r\n@ one-north\r\n",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "A648350E31E6AE3B",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 225132.943691976,
+				"SHAPE.LEN" : 2304.30365
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.7742868996001, 1.3560943902640463 ],
+					[ 103.78065678365363, 1.3560945381892413 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2362,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Bukit Timah\r\nNature Reserve",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8256,
+				"INC_CRC" : "ADDC9160C236C04B",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 201277.553027379,
+				"SHAPE.LEN" : 2112.9856
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.75494524057356, 1.364579608266503 ],
+					[ 103.75999724946135, 1.3645797685888328 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2361,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Bukit Batok\r\nTown Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "59A3A2AC6ACEAB0D",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 152414.804895711,
+				"SHAPE.LEN" : 1721.1111
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.8052373332518, 1.267577209430174 ],
+					[ 103.8086198807554, 1.2675772441381061 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2360,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Labrador\r\nNature\r\nReserve",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "DEC20C2FA5178105",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 179190.746306389,
+				"SHAPE.LEN" : 1705.21265
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77151490157333, 1.360250507584826 ],
+					[ 103.77490457144515, 1.360250592567117 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2359,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Dairy Farm\r\nNature\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 250,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "2E94904D960D6CE0",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 138861.548886296,
+				"SHAPE.LEN" : 1524.28555
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.79857824115233, 1.2604917303462986 ],
+					[ 103.80196077928241, 1.260491773564444 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2358,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Labrador\r\nPark\r\n",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "EB070D091A882937",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 118888.626859546,
+				"SHAPE.LEN" : 1452.23445
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.7946050938608, 1.2824555886056164 ],
+					[ 103.7992176558711, 1.28245565465568 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2357,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Kent Ridge\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "5C64C48F145675F2",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 144779.999331171,
+				"SHAPE.LEN" : 1659.8807
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.8052373332518, 1.267577209430174 ],
+					[ 103.8086198807554, 1.2675772441381061 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2356,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Labrador\r\nNature\r\nReserve",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "DEC20C2FA5178105",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 179190.746306389,
+				"SHAPE.LEN" : 1705.21265
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77728614984484, 1.3476159144315545 ],
+					[ 103.78138023042227, 1.3476160057645343 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2355,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Bukit Timah\r\nNature Area",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 250,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "8D1AAB8E185FA7EE",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 100595.221611019,
+				"SHAPE.LEN" : 1406.11855
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.7612361161271, 1.304482743152871 ],
+					[ 103.76497014000918, 1.3044828480249435 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2354,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Clementi\r\nWoods",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "ABEC016E87473FC2",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 115848.109482248,
+				"SHAPE.LEN" : 1427.84975
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81871015979122, 1.2763168495503334 ],
+					[ 103.82376199483834, 1.276316873462629 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2353,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Mount Faber\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "C305030825B2DEF7",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 164576.915844184,
+				"SHAPE.LEN" : 1818.65005
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.76250111003314, 1.354619993170596 ],
+					[ 103.76799239579114, 1.354620148431335 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2352,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Bukit Batok\r\nNature Areas",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "C13BA8FE418B79B9",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 169747.152944914,
+				"SHAPE.LEN" : 1860.11485
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.74899602698368, 1.2999137637399674 ],
+					[ 103.75277397175017, 1.2999138878690832 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2351,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Pandan\r\nReservoir\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "3AE5A95E99A1688F",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 190758.6020361,
+				"SHAPE.LEN" : 1766.7653
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.82070316075624, 1.3633300598390043 ],
+					[ 103.82661893308936, 1.3633300837527649 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2350,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Windsor \r\nInterim Green",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8256,
+				"INC_CRC" : "8DDF3D5ED6E8D4D3",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 177434.286253,
+				"SHAPE.LEN" : 1924.1755
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.76988047127242, 1.3817836999206166 ],
+					[ 103.77291795222405, 1.3817837796072612 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2349,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Zhenghua\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 250,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "F034C020D669BCAB",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 84244.0841856281,
+				"SHAPE.LEN" : 1242.5623
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.88328728968595, 1.402049000787205 ],
+					[ 103.88706539474764, 1.402048916604234 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2348,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Sengkang\r\nRiverside\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "946F09D4F3F793CD",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 196469.823560556,
+				"SHAPE.LEN" : 1868.179425356
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.91298965107322, 1.3417124976732715 ],
+					[ 103.91709725221973, 1.3417123596236193 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2661,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Bedok\r\nReservoir\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.8104,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "A187E0BD425D226E",
+				"FMEL_UPD_D" : "20180424184045",
+				"SHAPE.AREA" : 190759.100108048,
+				"SHAPE.LEN" : 1766.7676
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.72749515928795, 1.4209426454836427 ],
+					[ 103.73079005074877, 1.4209427950173885 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2400,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Kranji\r\nMarshes",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "AFA21D30CC44B765",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 111307.412415137,
+				"SHAPE.LEN" : 1391.4338
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.84154966213497, 1.461933371204753 ],
+					[ 103.8478101254169, 1.4619333393715954 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2399,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Sembawang\r\nCoastal Trail",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8256,
+				"INC_CRC" : "46A2E4C4B770552E",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 163130.314805524,
+				"SHAPE.LEN" : 1807.04845
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.92018748796896, 1.4138892747367107 ],
+					[ 103.92317485607545, 1.4138891603451065 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2398,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Coney \r\nIsland \r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "9CC996623042C82F",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 137845.24178997,
+				"SHAPE.LEN" : 1485.2129
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.94442179659573, 1.3582759883739508 ],
+					[ 103.95214274293721, 1.3582756188253742 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2397,
+				"FEATUREID" : 2669,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Sun Plaza\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.8104,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8264,
+				"INC_CRC" : "34FD0B8137E56D1B",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 129577.702522538,
+				"SHAPE.LEN" : 1537.95905
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.95042020891205, 1.3625850509069393 ],
+					[ 103.95814116727608, 1.3625846608408105 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2396,
+				"FEATUREID" : 2669,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Tampines\r\nEco Green",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.8104,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8264,
+				"INC_CRC" : "73904B03B173D46E",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 137212.518037017,
+				"SHAPE.LEN" : 1599.18945
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.73882654031488, 1.3567200162664894 ],
+					[ 103.74362506271308, 1.35672020009005 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2395,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Bukit Batok\r\nHillside Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 250,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 2,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "FFCCD0EB3442B1AC",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 105856.167742763,
+				"SHAPE.LEN" : 1458.74245
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.76325642502324, 1.3480544163168946 ],
+					[ 103.76735050525825, 1.3480545314164318 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2394,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Bukit Batok\r\nNature Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 250,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "89F024C972080D49",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 98993.6861529094,
+				"SHAPE.LEN" : 1390.0988
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77128619924127, 1.371044085268348 ],
+					[ 103.77467588407015, 1.3710441712506485 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2393,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Cheng Hua\r\nGarden",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 250,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "BEF310FB4D1110AD",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 93069.73698255,
+				"SHAPE.LEN" : 1330.84305
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.76437691366786, 1.3763989409909483 ],
+					[ 103.76987991437599, 1.376399094713452 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2392,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Petir Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 250,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "01B602BBEFE4D661",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 40576.4877938306,
+				"SHAPE.LEN" : 1020.6977
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.76109283247501, 1.3836136210597103 ],
+					[ 103.76353154264267, 1.38361369452196 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2391,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Bukit\r\nPanjang\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 250,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "C4BE0AFF9AF3A3B2",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 103380.476651974,
+				"SHAPE.LEN" : 1288.8128
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.72280295471049, 1.453652995427143 ],
+					[ 103.72961240940897, 1.4536533204775481 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2390,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Sungei Buloh\r\nWetland Reserve",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8256,
+				"INC_CRC" : "694F091645F2BDE8",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 220565.479593328,
+				"SHAPE.LEN" : 2267.6729
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.79356224561745, 1.3829803746630704 ],
+					[ 103.81486846984536, 1.3829806376809197 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2389,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Central Catchment Nature Reserve",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "BD3E0A010DAB29A7",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 223125.132388045,
+				"SHAPE.LEN" : 3877.06535
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77956451567673, 1.3796234210943918 ],
+					[ 103.7829472138039, 1.379623495597789 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2388,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Chestnut\r\nInterim\r\nGreen",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "FDF63382172D8D2E",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 179150.368616663,
+				"SHAPE.LEN" : 1704.9978
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.90415870818342, 1.2943585817549237 ],
+					[ 103.91680569910667, 1.2943581945916274 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2387,
+				"FEATUREID" : 2679,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "East Coast Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.8104,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8268,
+				"INC_CRC" : "826DC1C6B7CAB9F4",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 102935.900310547,
+				"SHAPE.LEN" : 1921.0254
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81957797604764, 1.3876518797614237 ],
+					[ 103.82726585531164, 1.3876519121747175 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2347,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Old Upper Thomson\r\nInterim Green",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "C9DDF5FCBC7E29C6",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 263641.848508314,
+				"SHAPE.LEN" : 2613.1412
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.76909886332454, 1.2907471438733908 ],
+					[ 103.77920250634845, 1.2907473804856173 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2346,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "West Coast Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8256,
+				"INC_CRC" : "D19155626454C616",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 106433.934989181,
+				"SHAPE.LEN" : 1977.95645
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.90225674669091, 1.3758213644974089 ],
+					[ 103.90555157820265, 1.3758212664301812 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2345,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Punggol\r\nPark",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "DB5262F6BFEAA52E",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 109700.086240389,
+				"SHAPE.LEN" : 1378.5432
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81864646283817, 1.3116295893846344 ],
+					[ 103.826334103365, 1.311629622902344 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2344,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Singapore Botanic\r\nGardens",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "63C0E323D83EC083",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 242344.764223931,
+				"SHAPE.LEN" : 2442.34065
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.80567365443528, 1.2739642230161117 ],
+					[ 103.81160405000719, 1.2739642802124322 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2343,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Telok Blangah\r\nHill Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "F4D468FE4A9CE47F",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 185445.378984036,
+				"SHAPE.LEN" : 1986.0131
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.8462102754025, 1.4238570682926726 ],
+					[ 103.8536786180557, 1.4238570141448987 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2342,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Yishun Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 311.81,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "65581D57B0667481",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 77629.1173416744,
+				"SHAPE.LEN" : 1509.168
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77941757697333, 1.4552824857974145 ],
+					[ 103.79226494733626, 1.4552827579835295 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2341,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "Admiralty Park",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 283.46,
+				"BOLD" : 1,
+				"ITALIC" : 0,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8260,
+				"INC_CRC" : "883FFF9785D41EF0",
+				"FMEL_UPD_D" : "20180319123116",
+				"SHAPE.AREA" : 78855.5037363744,
+				"SHAPE.LEN" : 1635.1332
+			}
+		}
+	]
+}

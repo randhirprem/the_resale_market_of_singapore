@@ -8,6 +8,7 @@
     "build": "vite build",
     "start": "node scripts/python.mjs -m backend.server",
     "import": "node scripts/python.mjs -m backend.data",
+    "model": "node scripts/python.mjs -m backend.price_models",
     "test": "node scripts/python.mjs -m unittest discover -s tests -v"
   },
   "dependencies": {

@@ -1,0 +1,2476 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "UP_G_MP19_PKWB_NATURE_AN",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.65528989902832, 1.3792345842392224 ],
+					[ 103.6561086641359, 1.3792346457324782 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1967,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 141.73,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "7CFB63B01EB30209",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 5644.25265768,
+				"SHAPE.LEN" : 301.1188
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77578435335336, 1.295359205465038 ],
+					[ 103.77732193389474, 1.2953592401345269 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1966,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8272,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "36748674BA724AB3",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.9456154163446, 1.4173323573654433 ],
+					[ 103.94715307161736, 1.4173322818391463 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1965,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "4F114AF5DA2F2E67",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.69364805074275, 1.4329433342250173 ],
+					[ 103.69446683549067, 1.4329433843165704 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1964,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 141.73,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "92D544994A2B88C8",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 5644.25265768,
+				"SHAPE.LEN" : 301.1188
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.69364805074275, 1.4329433342250173 ],
+					[ 103.69446683549067, 1.4329433843165704 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1963,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 141.73,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "92D544994A2B88C8",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 5644.25265768,
+				"SHAPE.LEN" : 301.1188
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.67020894039683, 1.4101967626985112 ],
+					[ 103.67138715230479, 1.4101968454825597 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1962,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 226.77,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "50FDE6321A98228A",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 14449.5588636,
+				"SHAPE.LEN" : 481.7946
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.76300802681547, 1.3512509533392385 ],
+					[ 103.76454564139281, 1.3512509976419822 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1961,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "0029DD09C9374BD4",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.76730571752105, 1.350974191968763 ],
+					[ 103.76812447649023, 1.3509742142191268 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1960,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 141.73,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "5B83EC941D45E96B",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 5644.25265768,
+				"SHAPE.LEN" : 301.1188
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81793061408548, 1.2719080924981505 ],
+					[ 103.81946818132923, 1.2719081012717683 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1959,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "0BEB0F222347844D",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.67222386444904, 1.3757799904046344 ],
+					[ 103.67376148966927, 1.375780094384088 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1958,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "228C085A73EFDD55",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 104.06235217648293, 1.4260406228653484 ],
+					[ 104.06388982808083, 1.4260404684076402 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1957,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "A7DE0BFA2574DBC7",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.66691892989974, 1.4071421161491866 ],
+					[ 103.66809713947914, 1.4071422004259782 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1956,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 226.77,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "059FF5BE55CFB056",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 14449.5588636,
+				"SHAPE.LEN" : 481.7946
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.95060009259045, 1.378732533391151 ],
+					[ 103.95213772247952, 1.3787324566818788 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1955,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8272,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "A8E43D79329F7E59",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.94656895712531, 1.4054279116728066 ],
+					[ 103.94810660452826, 1.405427836149052 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1954,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "E2537B906D533580",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77563263453185, 1.387033611509043 ],
+					[ 103.77669101391253, 1.3870336372371959 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1953,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 198.42,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "5C08F766AD105AA2",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 11062.5195735,
+				"SHAPE.LEN" : 421.5622
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.7552277083188, 1.35826221857389 ],
+					[ 103.75676532704671, 1.3582622680876981 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1952,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "4AC4942D5B4C67BA",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.96725048835165, 1.4081022094923423 ],
+					[ 103.96878813629267, 1.4081021200981132 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1951,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "056DBFAE6FE0B5CE",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 104.04698247519181, 1.435840560218333 ],
+					[ 104.04852013492524, 1.435840415101476 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1950,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "AEB377805526B599",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81405941123013, 1.2566564723429585 ],
+					[ 103.81559696947137, 1.2566564833045035 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1949,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "A79D321373018EE3",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81405941123013, 1.2566564723429585 ],
+					[ 103.81559696947137, 1.2566564833045035 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1948,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "A79D321373018EE3",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81405941123013, 1.2566564723429585 ],
+					[ 103.81559696947137, 1.2566564833045035 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1947,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "A79D321373018EE3",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81405941123013, 1.2566564723429585 ],
+					[ 103.81559696947137, 1.2566564833045035 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1946,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "A79D321373018EE3",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81405941123013, 1.2566564723429585 ],
+					[ 103.81559696947137, 1.2566564833045035 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1945,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "A79D321373018EE3",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81405941123013, 1.2566564723429585 ],
+					[ 103.81559696947137, 1.2566564833045035 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1944,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "A79D321373018EE3",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81405941123013, 1.2566564723429585 ],
+					[ 103.81559696947137, 1.2566564833045035 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1943,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "A79D321373018EE3",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81405941123013, 1.2566564723429585 ],
+					[ 103.81559696947137, 1.2566564833045035 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1942,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "A79D321373018EE3",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.71023208807392, 1.4136818802527769 ],
+					[ 103.71141030379756, 1.4136819428060596 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1941,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 226.77,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "D1941B172463D8C8",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 14449.5588636,
+				"SHAPE.LEN" : 481.7946
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.72351781724949, 1.4157960761343542 ],
+					[ 103.7246960345959, 1.415796131987492 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1940,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 226.77,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "F110C9B31650EDAC",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 14449.5588636,
+				"SHAPE.LEN" : 481.7946
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.80135247891414, 1.3803670316066554 ],
+					[ 103.80289011230865, 1.3803670519148654 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1939,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NR",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "E3714155212A15F7",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27485.5224874,
+				"SHAPE.LEN" : 664.6184
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.80571747705525, 1.413104645648349 ],
+					[ 103.80633648849391, 1.4131046529703644 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1938,
+				"FEATUREID" : -1,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : -1,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NR",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 85.04,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 0,
+				"OVERRIDE" : 0,
+				"FONTSTYLE" : null,
+				"INC_CRC" : "F4675AAB7126E469",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 1452.26070495,
+				"SHAPE.LEN" : 153.6928
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.80733406742478, 1.4085934604531598 ],
+					[ 103.80795307767923, 1.4085934673197114 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1937,
+				"FEATUREID" : -1,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : -1,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NR",
+				"FONTNAME" : "Arial",
+				"FONTSIZE" : 85.04,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 3,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 0,
+				"OVERRIDE" : 0,
+				"FONTSTYLE" : null,
+				"INC_CRC" : "1FEA2AABCB92C9A9",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 1452.26070495,
+				"SHAPE.LEN" : 153.6928
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.66311547076269, 1.4009980277594953 ],
+					[ 103.66429367703553, 1.400998113592957 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1921,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 226.77,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "87561EB2A1966507",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 14449.5588636,
+				"SHAPE.LEN" : 481.7946
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.72954748921848, 1.4172211080989707 ],
+					[ 103.73052802539398, 1.4172211521013691 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1936,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 180,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "6CDB1A48E287D2E9",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 9103.91721168,
+				"SHAPE.LEN" : 382.4272
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.78944651837013, 1.4137168793958201 ],
+					[ 103.7909841738363, 1.413716908128348 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1935,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NR",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "1233B53359AA4888",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27485.5224874,
+				"SHAPE.LEN" : 664.6184
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.67301656426514, 1.4129149490683084 ],
+					[ 103.67419477770468, 1.412915030579132 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1934,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 226.77,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "4E563601F09A473E",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 14449.5588636,
+				"SHAPE.LEN" : 481.7946
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.68621699927995, 1.419238318311273 ],
+					[ 103.68775465377432, 1.4192384162135503 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1933,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "0D0A7D73B6FC5B27",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.68831905903409, 1.4312078453692043 ],
+					[ 103.68985672161118, 1.431207942678911 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1932,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "E8B289B51BEB926E",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77537380055657, 1.3502762834887456 ],
+					[ 103.77691141489078, 1.3502763198890682 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1931,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "77CF9C6287DF3B0D",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77118462000416, 1.3559169925873973 ],
+					[ 103.77272223777292, 1.3559170318171825 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1930,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "E9B200433CE1264C",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.66089357250254, 1.3978605898910073 ],
+					[ 103.6620717776718, 1.3978606766541128 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1929,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 226.77,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "C2057840DA922E81",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 14449.5588636,
+				"SHAPE.LEN" : 481.7946
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.65593680688956, 1.346484171255746 ],
+					[ 103.65747441226024, 1.346484283358623 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1928,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "9034E27FE51F31FB",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.70904036724245, 1.4459037537783777 ],
+					[ 103.70985915772081, 1.4459037987369148 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1927,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 141.73,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "8C1764FD6A07AA82",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 5644.25265768,
+				"SHAPE.LEN" : 301.1188
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.6645970032454, 1.3652818277860146 ],
+					[ 103.66613462117992, 1.3652819358803978 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1926,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "2E6FFECA99179072",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.6757784029183, 1.38347739755522 ],
+					[ 103.67731603334606, 1.3834774997983368 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1925,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "2E9B2F410E25D74F",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.73470735405691, 1.4234427849924103 ],
+					[ 103.73588557509404, 1.4234428353944362 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1924,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 226.77,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "258410D82ADD8454",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 14449.5588636,
+				"SHAPE.LEN" : 481.7946
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.72376094943462, 1.4463585760868032 ],
+					[ 103.7252986242706, 1.4463586502638521 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1923,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NR",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "0671139DC80DDA60",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27485.5224874,
+				"SHAPE.LEN" : 664.6184
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81021501751763, 1.2788820237090994 ],
+					[ 103.81175258883283, 1.2788820371819754 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1922,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "33736E92D6619171",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.729422360284, 1.415865541847835 ],
+					[ 103.72986182530505, 1.415865561625824 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1970,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 48,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "A565F7653FCE52FD",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 647.38705176,
+				"SHAPE.LEN" : 101.9804
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.72847066741812, 1.4164479343467151 ],
+					[ 103.72891013253552, 1.4164479543144375 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1969,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 48,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "21F17459FA22A9E3",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 647.38705176,
+				"SHAPE.LEN" : 101.9804
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.83304395046997, 1.2490346151139318 ],
+					[ 103.83458150434868, 1.2490346148316842 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1968,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "EB0D0C02DEDCE1DA",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.73507242724101, 1.4425233654359482 ],
+					[ 103.73661010004916, 1.4425234317251787 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1985,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "49FC573A6AB5A192",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 104.05412666262814, 1.4330762136210513 ],
+					[ 104.05566431978187, 1.4330760639577043 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1984,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "D5481DA5A56F5922",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.83398741271525, 1.2177154265536358 ],
+					[ 103.8361838588103, 1.2177154251167734 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1983,
+				"FEATUREID" : 0,
+				"ZORDER" : 0,
+				"ANNOTATIONCLASSID" : 0,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "MNA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "824C5300E6347A03",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 43423.608097,
+				"SHAPE.LEN" : 870.116
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77944764111349, 1.3721802435825197 ],
+					[ 103.78098526942837, 1.3721802779382595 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1982,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "5D3A5C52055FE304",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77713701033035, 1.3550910350730256 ],
+					[ 103.77867462774205, 1.355091070476881 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1981,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NR",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "F8AA07E1ED6D65B4",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27485.5224874,
+				"SHAPE.LEN" : 664.6184
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.67291822071714, 1.358374288274053 ],
+					[ 103.674455834917, 1.3583743904936887 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1980,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "8A172BCA8091A546",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.80176164089913, 1.2668774274218961 ],
+					[ 103.80329920499825, 1.2668774458164171 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1979,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NR",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "76542979812424B0",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27485.5224874,
+				"SHAPE.LEN" : 664.6184
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.78992750574994, 1.2828450315349338 ],
+					[ 103.79146507911629, 1.282845057317279 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1978,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8272,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "EE643AEAEC8D1985",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81478220460498, 1.3142145900152953 ],
+					[ 103.8159603746074, 1.3142145985413476 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1977,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NP",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 226.77,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "D8E156EBC2CC4802",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 14035.3244808,
+				"SHAPE.LEN" : 474.4508
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.84584268704016, 1.295465615540809 ],
+					[ 103.84659398166586, 1.2954656116962815 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1976,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NP",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 100,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 1,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8208,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "571AE863271256BD",
+				"FMEL_UPD_D" : "20230120173629",
+				"SHAPE.AREA" : 2729.29058304,
+				"SHAPE.LEN" : 209.2208
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.77934861187398, 1.4465414361955369 ],
+					[ 103.78088628895651, 1.4465414724801795 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1975,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 311.81,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "15E37A34B8D8A220",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 27318.8802943,
+				"SHAPE.LEN" : 662.4698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.73023067774825, 1.4202323365320924 ],
+					[ 103.73140889699549, 1.4202323891167914 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1974,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 226.77,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "88211D169F355F6F",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 14449.5588636,
+				"SHAPE.LEN" : 481.7946
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81590846356627, 1.3118511767761307 ],
+					[ 103.81671989827215, 1.3118511823299868 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1973,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 140,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "F3402C476CC648A4",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 5507.30112348,
+				"SHAPE.LEN" : 297.4432
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.81385675344511, 1.3097286411794804 ],
+					[ 103.81466818745858, 1.309728647392803 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1972,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 140,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "66E3B5EF695D8EA1",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 5507.30112348,
+				"SHAPE.LEN" : 297.4432
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 103.72902422016465, 1.4166067311597397 ],
+					[ 103.72949755384741, 1.4166067525514756 ]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1971,
+				"FEATUREID" : null,
+				"ZORDER" : null,
+				"ANNOTATIONCLASSID" : null,
+				"SYMBOLID" : 0,
+				"STATUS" : 0,
+				"TEXTSTRING" : "NA",
+				"FONTNAME" : "Arial Black",
+				"FONTSIZE" : 60,
+				"UNDERLINE" : 0,
+				"VERTICALALIGNMENT" : 1,
+				"HORIZONTALALIGNMENT" : 0,
+				"XOFFSET" : 0,
+				"YOFFSET" : 0,
+				"ANGLE" : 0,
+				"FONTLEADING" : 0,
+				"WORDSPACING" : 100,
+				"CHARACTERWIDTH" : 100,
+				"CHARACTERSPACING" : 0,
+				"FLIPANGLE" : 90,
+				"OVERRIDE" : 8276,
+				"FONTSTYLE" : "Black",
+				"INC_CRC" : "E399DB415B91888B",
+				"FMEL_UPD_D" : "20230120173630",
+				"SHAPE.AREA" : 1011.5473518,
+				"SHAPE.LEN" : 127.4758
+			}
+		}
+	]
+}

@@ -1,0 +1,2 @@
+# Optional offline model generation and model tests; serving the app remains standard-library only.
+numpy>=1.26,<3

@@ -1,5 +1,6 @@
 import {useEffect,useRef,useState} from 'react';
 import L from 'leaflet';
+import ContextLayers from './ContextLayers';
 import {Crosshair, MapPin, X} from 'lucide-react';
 import {money,number,titleCase} from './utils';
 
@@ -20,9 +21,9 @@ function center(geometry) {
 const initialBounds=[[1.27,103.67],[1.47,104.01]];
 function priceColor(price, min, max){const t=max===min?0.5:(price-min)/(max-min);return t>.72?'#f05eb9':t>.44?'#a88aff':t>.2?'#6da9ff':'#3ee7d4';}
 
-export default function MapView({towns,selected,onSelect,metric}){
+export default function MapView({towns,selected,onSelect,metric,contextLayers=[],catalogError,onRetryCatalog}){
   const element=useRef(null), map=useRef(null), layers=useRef(null), selection=useRef(onSelect);
-  const [geo,setGeo]=useState(null),[error,setError]=useState(''),[tilesFailed,setTilesFailed]=useState(false);
+  const [geo,setGeo]=useState(null),[error,setError]=useState(''),[tilesFailed,setTilesFailed]=useState(false),[mapReady,setMapReady]=useState(false);
   selection.current=onSelect;
   useEffect(()=>{
     const controller=new AbortController();
@@ -31,8 +32,9 @@ export default function MapView({towns,selected,onSelect,metric}){
   },[]);
   useEffect(()=>{
     const instance=L.map(element.current,{zoomControl:false,attributionControl:true,scrollWheelZoom:false,zoomSnap:.25,minZoom:10,maxZoom:16});
-    instance.fitBounds(initialBounds,{padding:[10,10]});map.current=instance;
+    instance.fitBounds(initialBounds,{padding:[10,10]});map.current=instance;setMapReady(true);
     L.control.zoom({position:'bottomright'}).addTo(instance);
+    instance.createPane('context');instance.getPane('context').style.zIndex='450';
     const tiles=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{
       attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> · <a href="https://data.gov.sg/datasets/d_4765db0e87b9c86336792efe8a1f7a66/view">URA 2019</a>',maxZoom:19});
     tiles.on('tileerror',()=>setTilesFailed(true));tiles.addTo(instance);
@@ -75,12 +77,12 @@ export default function MapView({towns,selected,onSelect,metric}){
     }
   },[geo,towns,selected,metric]);
   const field=metric==='psm'?'psm':'price',values=towns.map(t=>t[field]);
-  return <div className="map-wrap">
+  return <>{mapReady&&<ContextLayers map={map} layers={contextLayers} error={catalogError} onRetry={onRetryCatalog}/>}<div className="map-wrap">
     <div ref={element} className="map-canvas" aria-label="Interactive Singapore map with town median prices"/>
     <div className="map-stamp"><span className="live-dot"/> SINGAPORE <span className="map-coordinates">1.3521° N / 103.8198° E</span></div>
     <button className="map-reset icon-button" title="Reset map view" aria-label="Reset map view" onClick={()=>map.current?.fitBounds(initialBounds)}><Crosshair size={18}/></button>
     {selected&&<button className="map-selection" onClick={()=>onSelect('')}><MapPin size={13}/>{titleCase(selected)}<X size={14}/></button>}
     <div className="map-legend"><span>MEDIAN {metric==='psm'?'PRICE / M²':'RESALE PRICE'}</span><div className="legend-gradient"/><div><b>{values.length?money(Math.min(...values)):'—'}</b><b>{values.length?money(Math.max(...values)):'—'}</b></div><small>Marker size = transaction volume</small></div>
     <div className="map-instruction">{error|| (tilesFailed?'Offline basemap · local boundaries shown':'Select a town to explore · use + / − to zoom')}</div>
-  </div>;
+  </div></>;
 }

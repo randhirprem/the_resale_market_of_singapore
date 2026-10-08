@@ -13,6 +13,10 @@ Open **Asking price** in the navigation of the running app, or visit [the local 
 
 Inputs belong to this form, independently of the dashboard filters. Changing any input clears the previous result. The form's inputs and result are not stored in shared URLs and are lost on reload. Select the HDB flat type, not the bedroom count: a five-room HDB flat can have three bedrooms.
 
+![Jurong East asking-price form showing the comparison range and evidence](../screenshots/asking-price.jpg)
+
+Captured 8 October 2026. Values reflect the imported snapshot.
+
 ## Read the result
 
 | Result | Meaning |

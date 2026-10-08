@@ -6,6 +6,10 @@
 
 Explain recorded HDB resale-price relationships using one consistent specification nationally and within each estate. These are descriptive hedonic regressions, not causal estimates, academic-school premiums, a valuation service or future-price forecasts. A national offset cannot be labelled a school, transport or amenity premium.
 
+![Singapore and Jurong East equations in the current app](../screenshots/price-equations.jpg)
+
+Captured 8 October 2026. Values reflect the imported snapshot.
+
 ## Equation
 
 The Singapore equation is:

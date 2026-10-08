@@ -1,4 +1,16 @@
 # Implementation progress
+
+## Current snapshot — 8 October 2026
+
+- 988,123 resale records, January 1990–October 2026; 11 reference datasets and 17 map overlays.
+- Balanced secondary-school rankings, national/estate equations and the four-input asking-price assessment are implemented.
+- Most recent app validation: 31 automated tests and production build passed; browser checks covered asking-price classifications, invalid inputs, sparse samples, supporting sales, searches and estate equations.
+- Documentation refresh: current screenshots, README and wiki, plus a rebuilt nine-page illustrated PDF guide. Capture states are recorded in `docs/screenshots/README.md`.
+
+## Historical implementation log — initial release
+
+The figures and checks below describe the initial 1 October 2026 build, not the current dataset.
+
 Plan: docs/superpowers/plans/2026-10-01-hdb-atlas.md
 Ruling: Proceed inline after user explicitly requested building now; avoid another design approval round.
 Ruling: Use this requested folder directly; its enclosing Git repository includes unrelated home-directory content, so no parent repository operations or commits.

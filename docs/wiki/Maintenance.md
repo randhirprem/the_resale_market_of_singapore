@@ -40,10 +40,10 @@ These are manual browser checks against the recorded snapshot, not a reusable au
 
 - `README.md`: entry point, gallery, setup and data caveats.
 - `docs/wiki/`: linked Markdown wiki pages.
-- `docs/screenshots/`: actual browser captures; the four desktop views use January-December 2024, all towns and flat types.
+- `docs/screenshots/`: actual browser captures; current browser captures and a [state inventory](../screenshots/README.md); dashboard views use November 2025–October 2026.
 - `output/pdf/HDB-Atlas-Guide.pdf`: illustrated user and maintainer guide.
 - `scripts/build_guide.py`: regenerate the PDF from current statistics, documentation content and existing screenshots.
 
 To rebuild the PDF, use a Python environment containing `reportlab` and Pillow, then run `python3 scripts/build_guide.py`. These are documentation dependencies only, not application runtime requirements. After regeneration, render and visually inspect every PDF page before sharing. Screenshots must be refreshed manually from the running app when the UI changes; the builder does not recapture them.
 
-The bundled screenshots and PDF are archived v1.0 artifacts and are labelled accordingly in the README. The README and wiki describe the current release; regenerate and visually review the PDF and screenshots before representing those artifacts as current.
+The screenshots and nine-page PDF were refreshed on 8 October 2026, including schools, asking-price assessment and estate equations. Keep the README, wiki, screenshot inventory and guide captions aligned when replacing captures. The PDF builder checks for body text extending into the footer; rendering and visual inspection are still required.

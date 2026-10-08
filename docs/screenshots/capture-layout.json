@@ -1,0 +1,36 @@
+{
+  "height": 6584,
+  "sections": {
+    "#map": {
+      "height": 684.5,
+      "width": 1370,
+      "x": 106,
+      "y": 565.59375
+    },
+    "#neighbourhood": {
+      "height": 1190.9765625,
+      "width": 1370,
+      "x": 106,
+      "y": 3168.53125
+    },
+    "#transactions": {
+      "height": 960.9375,
+      "width": 1370,
+      "x": 106,
+      "y": 2183.59375
+    },
+    ".analysis-grid": {
+      "height": 398.5,
+      "width": 1370,
+      "x": 106,
+      "y": 1270.09375
+    },
+    ".insight-grid": {
+      "height": 471,
+      "width": 1370,
+      "x": 106,
+      "y": 1688.59375
+    }
+  },
+  "width": 1512
+}

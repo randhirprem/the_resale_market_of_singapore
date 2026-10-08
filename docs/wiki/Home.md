@@ -16,9 +16,9 @@ HDB Atlas is a local, cyberpunk-styled explorer for Singapore HDB resale transac
 
 [Project README](../../README.md) · [Download the PDF guide](../../output/pdf/HDB-Atlas-Guide.pdf) · [Full dashboard screenshot](../screenshots/full-dashboard.jpg)
 
-The PDF and screenshots below are archived v1.0 material; use these wiki pages for current features.
+The screenshots and nine-page PDF guide were refreshed on 8 October 2026 and cover the current app. See the [capture inventory](../screenshots/README.md).
 
-![HDB Atlas overview, all flat types and towns, January to December 2024](../screenshots/overview.jpg)
+![HDB Atlas overview, all flat types and towns, November 2025 to October 2026](../screenshots/overview.jpg)
 
 ## Dataset snapshot
 

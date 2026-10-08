@@ -4,13 +4,13 @@ A cyberpunk Singapore HDB resale dashboard with **988,123 transactions from Janu
 
 ## Documentation
 
-- **[Illustrated PDF guide](output/pdf/HDB-Atlas-Guide.pdf)** - archived v1.0 walkthrough; see the wiki for current data and features.
+- **[Illustrated PDF guide](output/pdf/HDB-Atlas-Guide.pdf)** - current nine-page walkthrough, refreshed 8 October 2026.
 - **[Project wiki](docs/wiki/Home.md)** - linked guides for users and maintainers, including the API reference.
 - [Full dashboard screenshot](docs/screenshots/full-dashboard.jpg).
 
 ## Screenshots
 
-Actual captures of the running app, using **January-December 2024, all towns and all flat types**. These archived v1.0 screenshots show the earlier dataset ending in February 2025; the current app includes the October 2026 data and neighbourhood features.
+Actual browser captures refreshed **8 October 2026**. Overview, map, analytics, transactions and school views use **November 2025–October 2026, all towns and flat types**. The asking-price and equation examples use **Jurong East**, as noted below. See the [screenshot inventory](docs/screenshots/README.md) for capture details.
 
 ### Dashboard overview
 
@@ -18,7 +18,7 @@ Actual captures of the running app, using **January-December 2024, all towns and
 
 ### Interactive town map
 
-![Expanded Singapore map showing town-level median prices and transaction volumes](docs/screenshots/map.jpg)
+![Singapore map showing town-level median prices and transaction volumes](docs/screenshots/map.jpg)
 
 ### Trends and comparisons
 
@@ -27,6 +27,20 @@ Actual captures of the running app, using **January-December 2024, all towns and
 ### Transaction explorer
 
 ![Paginated transaction table with street search and current-page CSV export](docs/screenshots/transactions.jpg)
+
+### Schools and accessibility
+
+![Balanced secondary-school rankings based on programme breadth and recorded station access](docs/screenshots/schools.jpg)
+
+### Asking-price assessment
+
+Jurong East, five-room, 54 years remaining, $679,999 asking: the comparison range is $610,000–$685,000. This supports the asking price without estimating a sale probability.
+
+![Asking-price form with Jurong East inputs, comparison range and supporting sample size](docs/screenshots/asking-price.jpg)
+
+### National and estate equations
+
+![Singapore and Jurong East equations with chronological validation and estate comparison](docs/screenshots/price-equations.jpg)
 
 ## Run
 

@@ -2,6 +2,8 @@
 
 [Wiki home](Home.md) · [Data and methodology](Data-and-Methodology.md)
 
+Screenshots were refreshed on 8 October 2026. The dashboard captures use November 2025–October 2026, all towns and flat types; the asking-price and estate-equation examples use Jurong East.
+
 ## 1. Choose a comparison
 
 Use From and To to set an inclusive month range. Pick a flat type for a more comparable group of homes, then optionally select a town. Reset restores the latest 12 available months, all towns and all flat types. Copy the browser URL to preserve these shared filters.
@@ -41,6 +43,8 @@ For January-December 2024, select **4 ROOM** and **BEDOK**. The local dataset co
 
 ## 5. Explore neighbourhood context
 
+![Balanced secondary-school rankings](../screenshots/schools.jpg)
+
 Choose a Map overlay above the map, then click features to inspect source attributes. Only one overlay is displayed at a time. Pan and zoom to reload features for the visible area; a limit notice means you should zoom in to see more. Select Resale markets only to clear the overlay.
 
 The Neighbourhood panel offers 11 source datasets plus a derived balanced secondary-school ranking. It opens on the ranking, with the scoring method and exclusions available above the table. Expand the accessibility guide for daily-life considerations and price-interpretation limits. Search by school, subject, CCA, block, street, station or year. Open school cards for linked programmes, or building cards for flat counts and facilities. Other datasets appear in horizontally scrollable tables. Search and pagination apply only to the selected reference dataset; switching datasets resets both.
@@ -49,11 +53,15 @@ Reference snapshots do not follow the resale filters and should not be interpret
 
 ## 6. Assess an asking price
 
+![Jurong East asking-price assessment](../screenshots/asking-price.jpg)
+
 Open **Asking price**, select estate and housing type, enter the asking price in SGD and remaining lease in years, then select **Assess asking price**. The result flags high prices, explains whether at-asking or below-asking is better supported, and shows an indicative range and supporting sales. Inputs are independent of dashboard filters; editing one clears the previous result.
 
 The range is the middle half of comparable recorded prices, not a predicted sale-price interval. A minimum of 20 sales across three blocks is required. The app does not estimate the probability that a property sells. See [Asking-price assessment](Asking-Price.md) for worked examples and the full method.
 
 ## 7. Compare price equations
+
+![Singapore and Jurong East price equations](../screenshots/price-equations.jpg)
 
 Open Price equations or select an estate in its dropdown. The estate selection is shared with the main dashboard; date and flat-type filters do not refit the models. Compare the numeric formulas, conditional associations with block-clustered coefficient intervals, and errors on the same later sales. Expand All estate comparisons for the full audit.
 
